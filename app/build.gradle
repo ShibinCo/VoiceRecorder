@@ -31,5 +31,7 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.melnykov:floatingactionbutton:1.1.0'
     compile 'com.jpardogo.materialtabstrip:library:1.0.6'
+    
+    //Firebase Integration done in the previous code
 
 }
