@@ -1,2 +1,2 @@
 # VoiceRecorder
-Simple Voice Recorder App
+Simple Voice Recorder App (Open Source)
